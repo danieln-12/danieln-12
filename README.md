@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danieln-12 / Daniel
 - 👀 I’m interested in Finance, Economics, Engineering
-- 🌱 I’m currently learning Golang and Rust
+- 🌱 I’m currently learning GO and SOL
 - 💞️ I’m looking to collaborate on Projects focusing on Reverse-Engineering.
 - 📫 How to reach me: Twitter
 
